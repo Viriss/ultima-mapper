@@ -151,6 +151,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Maps\DECEIT_seth.DNG">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Tiles\acidFo.bmp">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
